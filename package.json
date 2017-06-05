@@ -1,0 +1,23 @@
+{
+  "name": "aotoo-validator",
+  "version": "1.0.0",
+  "description": "validator in node and fed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webkixi/fkp-sax.git"
+  },
+  "keywords": [
+    "aotoo",
+    "validator"
+  ],
+  "author": "webkixi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webkixi/"
+  },
+  "homepage": "https://github.com/webkixi/",
+}
